@@ -1,0 +1,9 @@
+{
+	"name": "adf-cooljsh",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b5e9214c-1ebc-479e-843d-dcf70a22b1a5",
+		"tenantId": "25230ccd-42f1-4606-bc18-c81c9640d63c"
+	}
+}
